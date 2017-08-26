@@ -1,0 +1,9 @@
+/*登录样式*/
+.login-magin{margin: 65px 0 50px;}
+.login-magin .login-tip{text-align: center;}
+.login-magin a{color: #1e262f;text-decoration: underline;}
+.login-magin .login-form{border: 1px solid #cccccc;padding: 20px;width: 340px;}
+.login-magin .login-form .tipM{margin: 10px 0 30px;}
+.login-magin .login-form .content-last{text-align: center;}
+.login-magin .login-form .form-group input{font-size: 14px;}
+.input-lg{border-radius: 4px;}

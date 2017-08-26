@@ -1,0 +1,33 @@
+/*公共字体样式*/
+body{font-family: "微软雅黑" !important; font-size: 14px; padding-bottom: 210px;}
+
+/*公共居中容器样式*/
+.inner{width: 1000px; margin-left: auto; margin-right: auto;}
+
+/*头部样式*/
+.header{border-bottom: 1px solid #e6e6e6;}
+.header .logo{float: left; display: inline;}
+.header .tel{float: right; display: inline; height: 60px; padding-left: 27px; color: #1e262f; line-height: 60px; background: url("../../images/common/tel.png") no-repeat 0 center;}
+.header .tel span{font-size: 12px;}
+
+/*主体内容样式*/
+.main-container{}
+.main-container .inner{}
+
+/*底部样式*/
+.footer{position: fixed; left: 0; right: 0; bottom: 0; padding: 15px 0 10px 0;}
+.footer .mask{position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-color: #1e262f; opacity: 0.8; filter: alpha(opacity=80);}
+.footer .inner{position: relative;}
+.footer .qrcode-list{margin: 0 0 10px 266px;}
+.footer .qrcode-list li{float: left; display: inline;}
+.footer .qrcode-list li + li{margin-left: 90px;}
+.footer .qrcode-list li .pic{margin-bottom: 10px;}
+.footer .qrcode-list li .pic img{display: block; width: 96px!important;}
+.footer .qrcode-list li .title{font-size: 14px; font-weight: bold; color: #fff; line-height: 1; text-align: center; margin-bottom: 0}
+.footer .copyright{font-size: 12px; color: #ededed; line-height: 18px; text-align: center; margin-bottom: 0;}
+
+/*btn*/
+.credit-form .btn{outline: 0!important;}
+.credit-form .btn:focus,
+.credit-form .btn:active{outline: 0!important;}
+.btn-warning.focus, .btn-warning:focus{outline: 0!important;}

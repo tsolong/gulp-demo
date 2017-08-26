@@ -1,0 +1,8 @@
+/*授权相关页面样式*/
+.credit-title{margin-bottom: 80px; padding-top: 155px; font-size: 18px; color: #454545; line-height: 24px; text-align: center;}
+
+.credit-container{width: 490px; margin: 0 auto;}
+
+.credit-form .control-label{padding-top: 13px!important; color: #1e262f; padding-right: 0;}
+.credit-form .form-control{border-color: #666; border-radius: 0; font-size: 14px; color: #333; padding-top: 12px; padding-bottom: 12px; height: 50px;}
+.credit-form .btn{padding-top: 9px; padding-bottom: 9px; background-color: #faca6a; border-color: #faca6a;}
